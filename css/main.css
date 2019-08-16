@@ -432,7 +432,7 @@ header nav ul li a:hover{
 	background-position: -213px 0;
 }
 
-
+.skip{position: absolute; font-size: 0; left: -9999999999px; text-indent: -99999999px;}
 
 
 /*  Footer  */
